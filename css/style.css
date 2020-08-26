@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+}
+.container{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    font-size:25px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+button{
+    position: relative;
+    top:15px;
+}
